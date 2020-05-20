@@ -1,7 +1,7 @@
 .calculator-container {
   margin: auto;
   text-align: center;
-  width: 50%;
+  width: 300px;
 }
 
 .button-section-styling {
@@ -21,7 +21,7 @@
   font-family: monospace;
   color: #6f6f6f;
   margin-bottom: 15px;
-  height: 25px;
+  height: 45px;
 }
 
 h2 {
@@ -34,4 +34,9 @@ h3 {
   color: #585858;
   font-family: monospace;
   font-size: 22px;
+}
+
+.result-styling {
+  font-size: 24px;
+  text-align: right;
 }
